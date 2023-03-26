@@ -27,7 +27,7 @@
     * 'Paste' it to put the text that you have already copy or cut to the field
     * 'SelectAll' it select all the thing that you have write or exist in the file
 
-![WhatsApp Image 2023-03-26 à 03 47 54](https://user-images.githubusercontent.com/117197658/227772917-4c8d568f-f9fd-44ee-95d2-d1b9398e3c65.jpg)
+![WhatsApp Image 2023-03-26 à 01 15 53 (2)](https://user-images.githubusercontent.com/117197658/227773163-95f24a63-64f4-4cbf-9705-d00a8ebae937.jpg)
 
 - Help option : Contain 
     * 'About' is an option if uou hit it , it will pop up a frame where you can find our emails to contact us
